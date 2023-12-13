@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'grimdocs.com - ghpages using hugo'
+theme = 'hugo-initio'
+DateForm = ''
